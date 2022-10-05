@@ -1,6 +1,6 @@
 # java2022
 
-Bu repo ve branch **ENGIN DEMIROĞ** tarafından verilen java 2022 eğitim kampı kepsamında yapılmış ikinci ödevdir.
+Bu repo ve branch **ENGIN DEMIROĞ** tarafından verilen java 2022 eğitim kampı kapsamında yapılmış ikinci ödevdir.
 
 https://www.kodlama.io/courses/enrolled/1868842
 
